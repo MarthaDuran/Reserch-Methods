@@ -15,11 +15,11 @@ https://pierrickharnay.github.io/PierrickHarnay_Notebook/
 
 [pierrick.harnay@gmail.com](mailto:Pierrick_harnay@uri.com)
 
-## <center> PIERRICK E. HARNAY </center>
+## MARTHA ALEJANDRA DURAN CANCHE 
 
-<center>Department of Biological Sciences</center>
-<center>University of Rhode Island</center>
-<center>120 Flagg Road, Kingston RI 02881</center>
+<center>Department of Marine Biology</center>
+<center>University of Haifa</center>
+<center>Abba Hushi Blvd. 199, Haifa, Israel</center>
 
 
 ### EDUCATION
