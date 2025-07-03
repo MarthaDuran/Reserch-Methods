@@ -6,7 +6,8 @@ In this protocol, we treat 0.35 and 0.28% LMA as synonyms since during the prepa
 
 *Visual protocol*
 
-![](Notebook_posts/images/agar_plating_syn_tzipi.png)
+![Agar plating](images/agar_plating_syn_tzipi.png)
+
 
 1. Prepare the ingredients.
 
