@@ -2,7 +2,8 @@
 
 # **Agar plating for *Synechococcus***
 
-In this protocol, we treat 0.35 and 0.28% LMA as synonyms since during the preparation, there are two steps of dilution. There is the initial LMA dilution of 0.35% and a subsequent dilution during the plate inoculation to the final concentration of 0.28% LMA. Given that we are looking to grow the bacteria in agarose, we aim to use mid-concentrated cultures. The cultures we used were WT5.3 and M5.3, both with concentrations of 7E+06.
+In this protocol, we treat 0.35 and 0.28% LMA as synonyms since during the preparation, there are two steps of dilution. There is the initial LMA dilution of 0.35% and a subsequent dilution during the plate inoculation to the final concentration of 0.28% LMA. Given that we are looking to grow the bacteria in agarose, we aim to use mid-concentrated cultures. The cultures we used were WT5.3 and M5.3, both with concentrations of 7E+06. his protocol is based on [Brahamsha (1996)](https://journals.asm.org/doi/abs/10.1128/aem.62.5.1747-1751.1996)
+
 
 *Visual protocol*
 
