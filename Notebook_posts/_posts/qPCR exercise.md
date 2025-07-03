@@ -15,10 +15,9 @@ This post outlines the procedure for calculating the **fold change of gene expre
 ### Step 3: Calculate Fold Change
 Fold Change = 2^(-ΔΔCt)
 
-> **What do the negative numbers mean?**
->
->In qPCR, lower Ct values represent higher expression of the gene of interest. This formula intends to transform the cycle difference into a biological meaning. A higher fold change represents increased gene expression.
-> 
+**What do the negative numbers mean?**
+In qPCR, lower Ct values represent higher expression of the gene of interest. This formula intends to transform the cycle difference into a biological meaning. A higher fold change represents increased gene expression.
+ 
 ---
 
 ## Example Calculation for the gene *foxA*
