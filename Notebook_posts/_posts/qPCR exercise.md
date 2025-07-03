@@ -36,7 +36,7 @@ This means *foxA* was expressed slightly more in the treated sample.
 
 ## Results
 
-| Gene  | ΔCt Control | ΔCt Treated | ΔΔCt | Fold Change |
+| Gene  | ΔCt control | ΔCt treated | ΔΔCt | Fold change |
 |------|--------------|--------------|------|-------------|
 | ascs | 5.80         | 5.79         | -0.01| 1.01        |
 | Delta| 2.67         | 2.82         | 0.15 | 0.90        |
